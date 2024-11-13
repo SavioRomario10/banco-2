@@ -1,0 +1,14 @@
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\banco\Banco\obj\Debug\net8.0\ref\Banco.dll
